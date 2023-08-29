@@ -1,8 +1,3 @@
-# React + Vite
+# Cloud Cafe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+An implementation of using firestore as the database for web application, based on the Youtube tutorial ([Firebase Firestore Tutorial](https://youtube.com/playlist?list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB&si=LPLePDg-iDtougr-)), instead of using vanilla javascript, this project was implemented in [React](https://react.dev).
