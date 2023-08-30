@@ -56,10 +56,11 @@ li span:nth-child(2) {
 
 li div {
   position: absolute;
-  top: 0;
-  right: 0px;
-  background: rgba(255, 255, 255, 0.6);
+  top: 20px;
+  right: 35px;
+  background: #eab0dc;
   width: 40px;
+  border-radius: 10px;
   text-align: center;
   padding: 10px 0;
   font-weight: bold;
